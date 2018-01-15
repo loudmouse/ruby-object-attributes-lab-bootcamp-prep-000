@@ -5,6 +5,7 @@ class Person
     @job = job 
   end 
   
+  def nam
   
   
 end
